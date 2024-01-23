@@ -1,16 +1,20 @@
-### Hi there 👋
+# Bem-vindos ao Control Z - Dev Team! 🚀
 
-<!--
-**ControlZ-DevTeam/ControlZ-DevTeam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Somos um grupo dedicado à excelência técnica, inovação e colaboração na área de programação. Composto por membros comprometidos, desenvolvemos projetos profissionais que visam resolver desafios do mundo real. Além disso, cultivamos um ambiente de aprendizado contínuo, compartilhando conhecimento e oferecendo suporte mútuo entre nossos membros. 🤝
 
-Here are some ideas to get you started:
+## Membros:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Geovane Saraiva
+- [GitHub](https://github.com/0LostConnection) 💻
+
+### Marcos Filipe
+- [GitHub](https://github.com/Kanelaaa) 💻
+
+### Pedro De França
+- [GitHub](https://github.com/ControlZ-DevTeam) 💻
+
+### Mariana Alves
+- [GitHub](https://github.com/ControlZ-DevTeam) 💻
+
+### Davi Mello
+- [GitHub](https://github.com/ControlZ-DevTeam) 💻

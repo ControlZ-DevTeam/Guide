@@ -31,7 +31,7 @@ Somos um grupo dedicado à excelência técnica, inovação e colaboração na �
 </table>
 
 &nbsp;
-## 🖥 Github
+## 🖥 Status do Perfil
 | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ControlZ-DevTeam&show_icons=true&theme=solarized-light&bg_color=fdf6e3&title_color=773c39&text_color=f3961e) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ControlZ-DevTeam&layout=compact&theme=solarized-light&bg_color=fdf6e3&title_color=773c39&text_color=f3961e)|
 | ------- | ------- |
 

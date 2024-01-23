@@ -1,4 +1,4 @@
-# Bem-vindo(a) ao Control Z - Dev Team! 🚀
+# Bem-vindo(a) ao Control Z! 🚀
 
 ## 🔍 Sobre Nós 
 Somos um grupo dedicado à excelência técnica, inovação e colaboração na área de programação. Composto por membros comprometidos, desenvolvemos projetos profissionais que visam resolver desafios do mundo real. Além disso, cultivamos um ambiente de aprendizado contínuo, compartilhando conhecimento e oferecendo suporte mútuo entre nossos membros. 🤝

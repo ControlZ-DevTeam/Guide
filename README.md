@@ -6,7 +6,8 @@ Somos um grupo dedicado à excelência técnica, inovação e colaboração na �
 
 &nbsp;
 ## 👥 Membros  
-### 💻 [Geovane Saraiva](https://github.com/0LostConnection)
+### 💻 Geovane Saraiva
+> [GitHub](https://github.com/0LostConnection) - [Discord](https://discord.com/users/437249534096048130/@blank)
 
 ### 💻 [Marcos Filipe](https://github.com/Kanelaaa)
 

@@ -26,23 +26,28 @@ ambiente de aprendizado contínuo, compartilhando conhecimento e oferecendo supo
         <th colspan="2">Davi Mello</th>
     </tr>
     <tr>
-        <td colspan="2"><img src="github-mark-white.svg" width="17" height="17" />
+        <td align="center" colspan="2" >
+            <img align="center" src="github-mark-white.svg" width="17" height="17" />
             <code><a href="https://github.com/0LostConnection">GitHub</a></code>
         </td>
         <td></td>
-        <td colspan="2"><img src="github-mark-white.svg" width="17" height="17" />
+        <td align="center" colspan="2">
+            <img align="center" src="github-mark-white.svg" width="17" height="17" />
             <code><a href="https://github.com/Kanelaaa">GitHub</a></code>
         </td>
         <td></td>
-        <td colspan="2"><img src="github-mark-white.svg" width="17" height="17" />
+        <td align="center" colspan="2">
+            <img align="center" src="github-mark-white.svg" width="17" height="17" />
             <code><a href="https://github.com/ControlZ-DevTeam">GitHub</a></code>
         </td>
         <td></td>
-        <td colspan="2"><img src="github-mark-white.svg" width="17" height="17" />
+        <td align="center" colspan="2">
+            <img align="center" src="github-mark-white.svg" width="17" height="17" />
             <code><a href="https://github.com/ControlZ-DevTeam">GitHub</a></code>
         </td>
         <td></td>
-        <td colspan="2"><img src="github-mark-white.svg" width="17" height="17" />
+        <td align="center" colspan="2">
+            <img align="center" src="github-mark-white.svg" width="17" height="17" />
             <code><a href="https://github.com/ControlZ-DevTeam">GitHub</a></code>
         </td>
 </table>

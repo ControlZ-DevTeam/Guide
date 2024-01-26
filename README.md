@@ -4,10 +4,14 @@
     </h1>
 </a>
 
-### 🔍 Sobre Nós
-Somos um grupo dedicado à excelência técnica, inovação e colaboração na área de programação. Composto por membros
-comprometidos, desenvolvemos projetos profissionais que visam resolver desafios do mundo real. Além disso, cultivamos um
-ambiente de aprendizado contínuo, compartilhando conhecimento e oferecendo suporte mútuo entre nossos membros. 🤝
+<a>
+    <h3>
+        🔎 Sobre Nós
+    </h3>
+    <p style="text-align: justify;">
+        Somos um grupo dedicado à excelência técnica, inovação e colaboração na área de programação. Composto por membros comprometidos, desenvolvemos projetos profissionais que visam resolver desafios do mundo real. Além disso, cultivamos um ambiente de aprendizado contínuo, compartilhando conhecimento e oferecendo suporte mútuo entre nossos membros. 🤝
+    </p>
+</a>
 
 - 🛑 **Nenhum projeto atual**
 
@@ -26,7 +30,7 @@ ambiente de aprendizado contínuo, compartilhando conhecimento e oferecendo supo
         <th colspan="2">Davi Mello</th>
     </tr>
     <tr>
-        <td align="center" colspan="2" >
+        <td align="center" colspan="2">
             <img align="center" src="github-mark-white.svg" width="17" height="17" />
             <code><a href="https://github.com/0LostConnection">GitHub</a></code>
         </td>

@@ -4,14 +4,8 @@
     </h1>
 </a>
 
-<a>
-    <h3>
-        🔎 Sobre Nós
-    </h3>
-    <p style="text-align: justify;">
-        Somos um grupo dedicado à excelência técnica, inovação e colaboração na área de programação. Composto por membros comprometidos, desenvolvemos projetos profissionais que visam resolver desafios do mundo real. Além disso, cultivamos um ambiente de aprendizado contínuo, compartilhando conhecimento e oferecendo suporte mútuo entre nossos membros. 🤝
-    </p>
-</a>
+### 🔎 Sobre Nós
+Somos um grupo dedicado à excelência técnica, inovação e colaboração na área de programação. Composto por membros comprometidos, desenvolvemos projetos profissionais que visam resolver desafios do mundo real. Além disso, cultivamos um ambiente de aprendizado contínuo, compartilhando conhecimento e oferecendo suporte mútuo entre nossos membros. 🤝
 
 - 🛑 **Nenhum projeto atual**
 

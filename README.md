@@ -4,7 +4,7 @@
     </h1>
 </a>
 
-## 🔍 Sobre Nós
+### 🔍 Sobre Nós
 Somos um grupo dedicado à excelência técnica, inovação e colaboração na área de programação. Composto por membros
 comprometidos, desenvolvemos projetos profissionais que visam resolver desafios do mundo real. Além disso, cultivamos um
 ambiente de aprendizado contínuo, compartilhando conhecimento e oferecendo suporte mútuo entre nossos membros. 🤝
@@ -12,7 +12,7 @@ ambiente de aprendizado contínuo, compartilhando conhecimento e oferecendo supo
 - 🛑 **Nenhum projeto atual**
 
 &nbsp;
-## 👥 Membros
+### 👥 Membros
 <table align="center">
     <tr>
         <th colspan="2">Geovane Saraiva</th>
@@ -53,7 +53,7 @@ ambiente de aprendizado contínuo, compartilhando conhecimento e oferecendo supo
 </table>
 
 &nbsp;
-## 🖥 Status do Perfil
+### 🖥 Status do Perfil
 
 <table align="center">
     <tr>

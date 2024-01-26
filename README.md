@@ -13,7 +13,7 @@ ambiente de aprendizado contínuo, compartilhando conhecimento e oferecendo supo
 
 &nbsp;
 ## 👥 Membros
-<table>
+<table align="center">
     <tr>
         <th colspan="2">Geovane Saraiva</th>
         <th></th>
@@ -50,7 +50,7 @@ ambiente de aprendizado contínuo, compartilhando conhecimento e oferecendo supo
 &nbsp;
 ## 🖥 Status do Perfil
 
-<table>
+<table align="center">
     <tr>
         <td>
             <img

@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-# Bem-vindo ao nosso Guia membros! 🚀
+# Bem-vindo ao nosso Guia! 🚀
 {: .fs-9 }
 
 ---

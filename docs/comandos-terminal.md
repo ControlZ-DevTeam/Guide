@@ -34,32 +34,34 @@ Os comandos em um terminal funcionam como instruções para o computador. Aqui e
 Aqui estão alguns exemplos abstratos de como um comando no terminal pode ser estruturado:
 
 1. **Comando Simples:**
-```yaml
-comando
-```
-Neste exemplo, `comando` é o comando que você deseja executar.
+    ```yaml
+    comando
+    ```
+    Neste exemplo, `comando` é o comando que você deseja executar.
     {: .mb-6 }
 
 2. **Comando com Argumentos:**
-```yaml
-comando [argumento1] [argumento2]
-```
-Aqui, `comando` é o comando que você deseja executar, e `argumento1` e `argumento2` são argumentos adicionais que você está passando para o comando.
+    ```yaml
+    comando [argumento1] [argumento2]
+    ```
+    Aqui, `comando` é o comando que você deseja executar, e `argumento1` e `argumento2` são argumentos adicionais que você está passando para o comando.
     {: .mb-6 }
 
 3. **Comando com Opções:**
-```yaml
-comando -opção
-```
-Neste exemplo, `comando` é o comando que você deseja executar, e `-opção` é uma opção que modifica o comportamento do comando.
-*Obs.: alguns comando utilizam uma mistura de `-opção` e/ou `--opção`, sempre procure a documentação do comando na internet caso tenha dúvida.*
+    ```yaml
+    comando -opção
+    ```
+    Neste exemplo, `comando` é o comando que você deseja executar, e `-opção` é uma opção que modifica o comportamento do comando.
+
+    {: .note }
+    Alguns comando utilizam uma mistura de `-opção` e/ou `--opção`, sempre procure a documentação do comando na internet caso tenha dúvida.*
     {: .mb-6 }
 
 4. **Comando com Argumentos e Opções:**
-```yaml
-comando -opção [argumento1] [argumento2]
-```
-Aqui, comando é o comando que você deseja executar, `-opção` é uma opção que modifica o comportamento do comando, e `argumento1` e `argumento2` são argumentos adicionais que você está passando para o comando.
+    ```yaml
+    comando -opção [argumento1] [argumento2]
+    ```
+    Aqui, comando é o comando que você deseja executar, `-opção` é uma opção que modifica o comportamento do comando, e `argumento1` e `argumento2` são argumentos adicionais que você está passando para o comando.
 
 ### Por exemplo:
 {: .no_toc }

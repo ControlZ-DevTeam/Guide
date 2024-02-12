@@ -1,8 +1,14 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: ControlZ  DevTeam Guides
+description: Guias para os integrantes do DevTeam iniciantes!
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+color_scheme: dark
+logo: "/assets/images/logo.png"
+
+mermaid:
+  version: "9.1.6"

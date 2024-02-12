@@ -54,7 +54,7 @@ Aqui estão alguns exemplos abstratos de como um comando no terminal pode ser es
     Neste exemplo, `comando` é o comando que você deseja executar, e `-opção` é uma opção que modifica o comportamento do comando.
 
     {: .note }
-    Alguns comando utilizam uma mistura de `-opção` e/ou `--opção`, sempre procure a documentação do comando na internet caso tenha dúvida.*
+    Alguns comando utilizam uma mistura de `-opção` e/ou `--opção`, sempre procure a documentação do comando na internet caso tenha dúvida.
     {: .mb-6 }
 
 4. **Comando com Argumentos e Opções:**
